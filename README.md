@@ -17,4 +17,4 @@ This project is a conversational AI workflow built with [n8n](https://n8n.io) an
 
 1. Clone the repo:
    ```bash
-   
+   https://github.com/899-12/n8n-AI-Agent-Chat-Workflow.git
