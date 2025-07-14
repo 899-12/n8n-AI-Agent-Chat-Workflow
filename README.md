@@ -20,13 +20,13 @@ This project is a conversational AI workflow built with [n8n](https://n8n.io) an
    ```bash
    https://github.com/899-12/n8n-AI-Agent-Chat-Workflow.git
 
-Import workflow.json into your local n8n instance.
+## Import workflow.json into your local n8n instance.
 
-🛠 Tech Stack
-n8n
+# 🛠 Tech Stack
+- n8n
 
-LangChain
+- LangChain
 
-OpenAI (GPT-4.1-mini)
+- OpenAI (GPT-4.1-mini)
 
-Airtable
+- Airtable
